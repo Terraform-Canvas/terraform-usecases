@@ -1,8 +1,7 @@
 # terraform-usecases
 Repository for terraform use cases
 
-## Architecture
-![image](https://github.com/Terraform-Canvas/terraform-usecases/assets/16442978/75ecc051-d3f1-4085-962a-d2f91cf0e69f)
+
 ## Prerequisites
 1. Install Terraform CLI [Link](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli)
 2. Install AWS CLI [Link](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
