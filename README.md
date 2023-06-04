@@ -9,7 +9,7 @@ Repository for terraform use cases
 ## Use Cases
 |Title|Description|Link|
 |---|---|---|
-|Basic EC2|Basic EC2 Setting for testing terraform. | TBA
+|Basic EC2|Basic EC2 Setting for testing terraform. | [Link](https://github.com/Terraform-Canvas/terraform-usecases/tree/main/basic-ec2)
 |Auto Scailing using AWS | Build auto scailing group for scale out.|TBA
 |Blue-Green deployment|Build Blue-Green deployment using ALB|TBA
 |EKS Cluster|Build container cluster system using EKS|TBA|

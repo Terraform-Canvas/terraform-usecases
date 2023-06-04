@@ -1,5 +1,5 @@
 # Basic EC2
-Basic EC2 Setting for testing terraform.
+Simple EC2 Setting for testing terraform.
 
 ## How to Run
 1. Initialize your terraform configuration.
