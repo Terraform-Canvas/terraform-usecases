@@ -12,7 +12,8 @@ Repository for terraform use cases
 |---|---|---|
 |Basic EC2|Basic EC2 Setting for testing terraform. | [Link](https://github.com/Terraform-Canvas/terraform-usecases/tree/main/basic-ec2)
 |Auto Scailing using AWS | Build auto scailing group for scale in-out.|[Link](https://github.com/Terraform-Canvas/terraform-usecases/tree/main/autoscailing)
-|Blue-Green deployment|Build Blue-Green deployment using ALB|TBA
+|Blue-Green deployment|Build Blue-Green deployment using ALB|[Link](https://github.com/Terraform-Canvas/terraform-usecases/tree/main/blue-green)
+|Blue-Green deployme
 |EKS Cluster|Build container cluster system using EKS|TBA|
 |Datadog Monitoring|Build monitoring system using Datadog|TBA
 |Slack alert|Build slack alert system using AWS Chatbot|TBA
